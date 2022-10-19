@@ -1,3 +1,4 @@
 # Flutter ile mobil uygulamalar için örnek login ekranı
 
-![image](https://user-images.githubusercontent.com/73295089/196816936-dfda27bb-7720-40f5-a590-a7dfebe28369.png)
+
+![Adsız](https://user-images.githubusercontent.com/73295089/196817364-873187a5-c6a1-45f2-8acf-d80388ea2c88.png)
